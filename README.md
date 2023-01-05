@@ -5,8 +5,8 @@ To run use command:
 
 Linux:
 
-  python3 main.py -d <depth> -url <url to scan>
+  python3 main.py -d depth -url "url to scan"
   
 Windows / MacOs:
   
-  python main.py -d <depth> -url <url to scan>
+  python main.py -d depth -url "url to scan"
